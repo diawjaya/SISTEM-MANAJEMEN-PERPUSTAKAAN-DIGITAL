@@ -128,14 +128,14 @@ Terdapat 6 opsi yang tersedia di menu user, yaitu:
 ## Opsi Pinjam Buku
 
 Jika memilih 1. pinjam buku, maka akan menampilkan daftar buku dari database json dan pengguna diminta memilih buku, jika inputan valid maka stok buku yg di pijam akan berkurang 1 dari database dan pengguna akan
-mendapatkan 10 poin
+mendapatkan +10 poin
 
 <img width="567" height="335" alt="Screenshot 2025-10-26 042800" src="https://github.com/user-attachments/assets/6dc6f160-4b14-44fd-8a4e-d6531b1131df" />
 
 ## Opsi Kembalikan Buku
 
 Jika memilih 2. Kembalikan Buku, maka akan menampilkan daftar buku dar database json dan pengguna diminta memillih buku yang akan dikembalikan, jika inputan valid dan stok buku tidak lebih sama dengan jumlah
-buku fix, maka stok buku akan ditambah 1 di database dan pengguna akan mendapatkan 10 poin
+buku fix, maka stok buku akan ditambah 1 di database dan pengguna akan mendapatkan +10 poin
 
 <img width="683" height="485" alt="Screenshot 2025-10-26 042905" src="https://github.com/user-attachments/assets/a7dd1f18-01b6-487e-a9b4-b387e0ce46bd" />
 
